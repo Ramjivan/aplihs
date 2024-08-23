@@ -1,7 +1,7 @@
 [Discontinued] This is archive of project Progress!!!
 
 Asset Handling Leakage and Intrusion detection system
-
+Video Link - https://youtu.be/k5OpIO3WRZA
 
 Recently the Australian government faced a challenge, when a radioactive capsule was lost during the transit and  the incident got detected later while recounting.
 
@@ -9,6 +9,12 @@ Similarly in transit of many high value Assets, there comes a challenge of preve
 
 
 To overcome this challenge, 4 founders from iStart Incubation Center Jodhpur collaborated to solve, and as a brainchild a trust and transparency based solution is born, Asset Protection Leakage and intrusion handling system. (APLIHS)
+
+Members - 
+Dhruv Gaur (SRG Technologies)
+Ramjivan Jangid (Streamway Tech)
+Kuldeep Jangid (Streamway Tech)
+Raghav Sharma (Skillonation Edtech)
 
 Features - 
 
